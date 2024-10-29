@@ -1,4 +1,6 @@
- Olá!Eu sou Gustavo dos santos 👋
+<h1><em>Olá, eu sou o Gustavo!</h1>
+<br><br>
+
 
 - 📚 Estudante  ...
 - 💻 cursando informática 1/3 ...
@@ -9,5 +11,6 @@
   <img align="center" alt="gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+
 
 
