@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<div style="display: inline_block">Linguagem!<br><br>
+<div style="display: inline_block">Linguagens!<br><br>
   <img align="center" alt="gusta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="gusta-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="gusta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
